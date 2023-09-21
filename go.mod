@@ -1,10 +1,10 @@
-module github.com/okjocn/gopkg/ginutil
+module github.com/okjocn/gopkg-ginutil
 
 go 1.19
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/okjocn/gopkg/httputil v1.1.0
+	github.com/okjocn/gopkg-httputil v1.1.1
 	github.com/stretchr/testify v1.8.3
 	github.com/swaggo/gin-swagger v1.2.0
 )
